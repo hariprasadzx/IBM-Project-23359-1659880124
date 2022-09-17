@@ -1,6 +1,5 @@
 # IBM-Project-23359-1659880124
 Machine Learning based Vehicle Performance Analyzer
-|------------------------------------------|
 |  NAME       | ROLL NUMBER | Department   |   
 |------------------------------------------|
 |KAVINKUMAR G  |  190801082  |   ECE       |   
