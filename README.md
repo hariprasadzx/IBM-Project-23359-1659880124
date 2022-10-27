@@ -35,4 +35,8 @@ The performance analysis of the car is based on the engine type, no of engine cy
         - [x] [Problem Solution Fit](https://github.com/IBM-EPBL/IBM-Project-23359-1659880124/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%201/Problem_solution_fit_PNT2022TMID02351.pdf)
         - [x] [Solution Architecture](https://github.com/IBM-EPBL/IBM-Project-23359-1659880124/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%201/Solution_Architecture_PNT2022TMID02351.pdf)
     - Project Design Phase 2
+        - [x] [Customer Journey](https://github.com/IBM-EPBL/IBM-Project-23359-1659880124/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%202/Customer_Journey_Map_PNT2022TMID02351.pdf)
+        - [x] [Functional Requirement](https://github.com/IBM-EPBL/IBM-Project-23359-1659880124/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%202/Solution_Requirements_PNT2022TMID02351.pdf)
+        - [x] [Data Flow Diagram](https://github.com/IBM-EPBL/IBM-Project-23359-1659880124/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%202/Data_Flow_Diagram_PNT2022TMID02351.pdf)
+        - [x] [Technology Architecture](https://github.com/IBM-EPBL/IBM-Project-23359-1659880124/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%202/Technology_Stack_PNT2022TMID02351.pdf)
     
