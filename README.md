@@ -22,7 +22,12 @@ The performance analysis of the car is based on the engine type, no of engine cy
 ### Technical Architecture:
 ![image](https://user-images.githubusercontent.com/88080609/193425222-850f5dd3-0daa-4ef4-a4e4-25f24628de34.png)
 
-
+### Project Workflow:
+* [Data Collection](https://github.com/IBM-EPBL/IBM-Project-23359-1659880124/tree/main/Data%20Collection)
+* [Data Preprocessing](https://github.com/IBM-EPBL/IBM-Project-23359-1659880124/tree/main/Data%20Preprocessing)
+* [Model Building](https://github.com/IBM-EPBL/IBM-Project-23359-1659880124/tree/main/Model%20Building)
+    - [x] Deployment - [Click here](https://dataplatform.cloud.ibm.com/ml-runtime/spaces/59e74fb8-5c13-4ff3-b36a-9e909d8603e6/deployments?context=cpdaas)
+* [Application Building](https://github.com/IBM-EPBL/IBM-Project-23359-1659880124/tree/main/Application%20Building)
 ### Tasks:
 * [Assignments](https://github.com/IBM-EPBL/IBM-Project-23359-1659880124/tree/main/Assignments)
 * Project Design & Planning
